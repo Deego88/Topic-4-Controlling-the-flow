@@ -11,7 +11,7 @@ while  a != 1:
                 a = int(a/b)
                 print (a)
 # but if it is odd, multiply
-# it by 3 and adds
+# it by 3 and add 1
         elif (a % b) != 0:
                 a = int((a * 3 ) + 1)
                 print (a)
